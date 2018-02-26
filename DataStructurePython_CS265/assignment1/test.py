@@ -1,0 +1,1 @@
+for _ in " "*10: print "hello"
